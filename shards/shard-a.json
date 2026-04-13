@@ -1,0 +1,22 @@
+{
+  "shard_id": "A",
+  "metadata": {
+    "title": "五力平衡矩阵 (Five-Force Equilibrium)",
+    "version": "1.0",
+    "creator": "lifesplicerelliott-cloud"
+  },
+  "logic_weights": {
+    "political_force": 0.20,
+    "knowledge_force": 0.25,
+    "economic_force": 0.20,
+    "media_force": 0.15,
+    "mass_force": 0.20
+  },
+  "constraints": [
+    "Beware of 'Qin-System' over-centralization",
+    "Support distributed collaboration",
+    "Reject macro-narratives that sacrifice individual sovereignty"
+  ],
+  "status": "locked",
+  "encryption_protocol": "Lit-Protocol-Required"
+}
