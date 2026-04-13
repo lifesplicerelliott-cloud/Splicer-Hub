@@ -1,0 +1,25 @@
+{
+  "shard_id": "B",
+  "metadata": {
+    "title": "生命代价审计 (The Life-Cost Audit)",
+    "period": "1995-2026",
+    "sovereign": "lifesplicerelliott-cloud"
+  },
+  "audit_parameters": {
+    "life_friction_coefficient": 0.88,
+    "systemic_resistance_score": 0.95,
+    "experience_premium": "30-Year Cross-Cycle Insight"
+  },
+  "pension_logic": {
+    "logic_rent_target": "Digital Pension for Splicers",
+    "revenue_split": "80_Individual_20_Future",
+    "valuation_anchor": "$SPLIC-B"
+  },
+  "judgment_weights": {
+    "individual_sovereignty_vs_collective": 1.35,
+    "intuition_vs_algorithm": 1.20,
+    "long_term_vision_vs_quarterly_kpi": 1.50
+  },
+  "status": "locked",
+  "encryption": "Lit-Gated-Required"
+}
