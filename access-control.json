@@ -1,0 +1,17 @@
+{
+  "protocol": "Lit-Protocol",
+  "condition": {
+    "contractAddress": "0x5PLIC-B_CONTRACT_ADDRESS", 
+    "standardContractType": "ERC20",
+    "chain": "base",
+    "method": "balanceOf",
+    "parameters": [
+      ":userAddress"
+    ],
+    "returnValueTest": {
+      "comparator": ">=",
+      "value": "1000000000000000000000" 
+    }
+  },
+  "description": "Must hold 1000 $SPLIC-B on Base chain to unlock shards."
+}
